@@ -616,7 +616,7 @@
   "mod_epicloot_me_addpickaxesskill_display": "+{0} навыка кирки",
   "mod_epicloot_me_addpickaxesskill_prefix1": "Добывающ.",
   "mod_epicloot_me_addpickaxesskill_suffix1": "шахтера",
-  "mod_epicloot_me_addmovementskills_display": "+{0} навыка бега",
+  "mod_epicloot_me_addmovementskills_display": "+{0} к навыкам передвижения",
   "mod_epicloot_me_addmovementskills_prefix1": "Спринтерск.",
   "mod_epicloot_me_addmovementskills_suffix1": "приключенца",
   "mod_epicloot_me_modifystaggerduration_display": "Время оглушения +{0:0.#}%",
