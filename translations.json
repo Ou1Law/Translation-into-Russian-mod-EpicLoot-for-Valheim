@@ -580,7 +580,7 @@
   "mod_epicloot_me_waterwalk_prefix2": "Водной прогулки",
   "mod_epicloot_me_waterwalk_suffix1": "хождения по воде",
   "mod_epicloot_me_waterwalk_suffix2": "спокойной воды Ньорда",
-  "mod_epicloot_me_explosivearrows_display": "+{0:0.#}% AOE урон огнем",
+  "mod_epicloot_me_explosivearrows_display": "+{0:0.#}% АОЕ урона взрывом",
   "mod_epicloot_me_explosivearrows_prefix1": "Взрывная",
   "mod_epicloot_me_explosivearrows_suffix1": "взрыва",
   "mod_epicloot_me_quickdraw_display": "Скорость натягивания тетивы +{0:0.#}%",
