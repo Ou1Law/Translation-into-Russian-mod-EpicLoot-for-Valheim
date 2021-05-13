@@ -441,7 +441,7 @@
   "mod_epicloot_me_modifyarmor_prefix1": "Панцирн.",
   "mod_epicloot_me_modifyarmor_prefix2": "Бронирован.",
   "mod_epicloot_me_modifyarmor_suffix1": "брони",
-  "mod_epicloot_me_modifybackstab_display": "Удар в спину +{0:0.#}%",
+  "mod_epicloot_me_modifybackstab_display": "Урон из скрытности +{0:0.#}%",
   "mod_epicloot_me_modifybackstab_prefix1": "Смертельн.",
   "mod_epicloot_me_modifybackstab_prefix2": "Скрытн.",
   "mod_epicloot_me_modifybackstab_suffix1": "убийцы",
