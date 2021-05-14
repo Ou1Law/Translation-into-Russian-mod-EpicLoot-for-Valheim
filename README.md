@@ -1,7 +1,7 @@
 # Translation-into-Russian-mod-EpicLoot-for-Valheim
 Перевод на русский мода EpicLoot для игры Valheim
 v. EpicLoot 0.7.10
-v. transtation 1.1
+v. transtation 1.2
 
 # Установка
 заменить файлы действительно только для версии EpicLoot 0.7.10 не гарантирую работу при полной замене на более поздних версиях
