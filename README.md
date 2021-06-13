@@ -1,6 +1,6 @@
 # Translation-into-Russian-mod-EpicLoot-for-Valheim
 Перевод на русский мода EpicLoot для игры Valheim
-v. EpicLoot 0.8.0
+v. EpicLoot 0.8.0 - 0.8.1
 v. transtation 1.1
 
 # Установка
